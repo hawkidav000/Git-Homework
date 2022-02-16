@@ -19,3 +19,4 @@
 ## Chris Anthony
 >>>>>>> 388d073ad136a85c02aa384bbc992cd37cafd61d
 ## Taylor Mendez
+## Nathan Van De Vyvere
