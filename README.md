@@ -2,16 +2,15 @@
 
 ## David Hawkins
 ## Joachim Isaac
-<<<<<<< HEAD
+
 
 =======
-## ethan coyle
+## Ethan Coyle
 ## Jose Soto
 <<<<<<< HEAD
 =======
-=======
 ## Garrett Johnson
-# ETHAN COYLE
+=======
 ## Jereen LeBlanc
 ## Pabitra Bhandari
 >>>>>>> 9bd51612ace6a521f13b84b695e5e77453e87466
