@@ -3,6 +3,7 @@
 ## David Hawkins
 ## Joachim Isaac
 ## ethan coyle
+## Jose Soto
 <<<<<<< HEAD
 =======
 =======
